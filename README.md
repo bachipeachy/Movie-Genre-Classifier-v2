@@ -1,5 +1,5 @@
 # Movie-Genre-Classifier-v2
-Completed version if multi label classifier for movie genre
+Completed version of multi label classifier for movie genre
 ## Dataset
 You will need CMU Movie Summary Corpus open dataset. You can download the dataset directly from 
 http://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz
